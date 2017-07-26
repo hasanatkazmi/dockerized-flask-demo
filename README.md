@@ -15,7 +15,7 @@ Within `app`, we have `test-unit.py` that have unit tests for the app. You may r
 ## How to:
 Run these commands:
 ```
-git clone dockerized-flask-demo
+git clone https://github.com/hasanatkazmi/dockerized-flask-demo.git
 cd dockerized-flask-demo
 docker-compose build
 docker-compose up
